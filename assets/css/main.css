@@ -2821,6 +2821,10 @@ input, select, textarea {
 		.main.style1 {
 			background: #fff;
 		}
+		
+		.main.style6{
+			background: #4686a0;
+		}
 
 		.main.style2 {
 			background-color: #333;
