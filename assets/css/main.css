@@ -2819,11 +2819,14 @@ input, select, textarea {
 	}
 
 		.main.style1 {
-			background: #fff;
+			
+			background: #fff
 		}
 		
 		.main.style6{
-			background: #4686a0;
+			color: #000;
+			background: #fff;
+			
 		}
 
 		.main.style2 {
