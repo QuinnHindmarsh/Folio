@@ -7,6 +7,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -24,6 +25,8 @@ section, summary, time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;}
+
+
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -503,7 +506,7 @@ input, select, textarea {
 		}
 
 			.row.gtr-150 > * {
-				padding: 0 0 0 3em;
+				padding: 0 0 0 0em;
 			}
 
 			.row.gtr-150.gtr-uniform {
@@ -511,7 +514,7 @@ input, select, textarea {
 			}
 
 				.row.gtr-150.gtr-uniform > * {
-					padding-top: 3em;
+					padding-top: 1em;
 				}
 
 		.row.gtr-200 {
@@ -991,7 +994,7 @@ input, select, textarea {
 				}
 
 					.row.gtr-150 > * {
-						padding: 0 0 0 3em;
+						padding: 0 0 0 0em;
 					}
 
 					.row.gtr-150.gtr-uniform {
@@ -999,7 +1002,7 @@ input, select, textarea {
 					}
 
 						.row.gtr-150.gtr-uniform > * {
-							padding-top: 3em;
+							padding-top: 0em;
 						}
 
 				.row.gtr-200 {
@@ -1481,7 +1484,7 @@ input, select, textarea {
 				}
 
 					.row.gtr-150 > * {
-						padding: 0 0 0 3em;
+						padding: 0 0 0 0em;
 					}
 
 					.row.gtr-150.gtr-uniform {
@@ -1726,7 +1729,7 @@ input, select, textarea {
 				}
 
 					.row.gtr-150 > * {
-						padding: 0 0 0 3em;
+						padding: 0 0 0 0em;
 					}
 
 					.row.gtr-150.gtr-uniform {
@@ -1971,7 +1974,7 @@ input, select, textarea {
 				}
 
 					.row.gtr-150 > * {
-						padding: 0 0 0 3em;
+						padding: 0 0 0 0em;
 					}
 
 					.row.gtr-150.gtr-uniform {
@@ -2821,7 +2824,10 @@ input, select, textarea {
 		.main.style1 {
 			
 			background: #fff
+
 		}
+		
+
 		
 		.main.style6{
 			color: #000;
@@ -2831,6 +2837,7 @@ input, select, textarea {
 
 		.main.style2 {
 			background-color: #333;
+			text-align: center;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
 			background-image: url("images/overlay1.png"), url("../../images/header.jpg");
